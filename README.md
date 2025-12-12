@@ -5,15 +5,10 @@ Email Me 👉 ✉️ **jhas7317@gmail.com** For Collaboration/Project or Anythin
 
 ## 🔗 I am a Hackathon Organizer. 😊😊
 
-**👨‍💼 Founder @Hacker's Unity | Co-Founder @Nextease Solution | Hackathon Organizer | Community Leader | Data Engineer | Certified Mentor.**
+**👨‍💼 Data Analyst - RRT | Community Lead - Hacker's Unity | Hackathon Organizer | Community Leader | Data Engineer | Certified Hackathon Mentor.**
 
-I am a passionate entrepreneur, project leader, and data-driven professional with diverse experience across technology, business, and community development.
+I am a passionate Data Analyst, project leader, and data-driven professional with diverse experience across technology, business, and community development.
 
-**Founder @ Hacker’s Unity** – Building a thriving tech community to empower learners, innovators, and professionals through hackathons, mentorship, and collaborative opportunities.
-
-**Co-Founder @ Nextease Solutions (Mumbai Branch)** – Driving business growth, digital transformation, and client-focused IT solutions with a vision of making enterprises future-ready.
-
-**Project Manager @ DMV Core Tech** – Leading cross-functional teams, managing end-to-end project lifecycles, and ensuring timely, high-quality delivery aligned with business goals.
 
 **Hackathon Organizer & Certified Mentor** – Actively engaged in fostering innovation, mentoring emerging talent, and creating platforms for knowledge-sharing.
 
@@ -32,16 +27,13 @@ Always open to collaborations, partnerships, and impactful opportunities.
 
 **💼 Professional Experience**
 
-**👨‍💻 Project Manager at DMV Core Tech @ DMV Core Tech.**
-→ leading end-to-end project execution with a focus on IT services, product development, and client-centric solutions.
-
 **👨‍💻 Technical Expert (Data Analyst) @ Recruit Riders Technologies Inc.**
 → Built scalable, data-driven solutions and streamlined analytical workflows.
 
 **🛠️ Former Data Engineering Intern @ Celebal Technologies**
 → Hands-on with ETL pipelines, data wrangling, and real-time analytics.
 
-**🌐 Former Frontend Intern @ Website Maker**
+**🌐 Former Data Analyst Intern @ NextEase Solution**
 → Developed interactive UI/UX using React.js and modern JavaScript.
 
 **🏆 Hackathon Experience**
