@@ -1,11 +1,11 @@
 # 💫 Hi 👋, I'm Jha Suraj Kumar
-**A passionate Data Analyst Engineer || AI Engineer || Snowflake Admin from India  || Hacker's Unity Community Lead**
+**A passionate Software Engineer || AI Engineer || Snowflake Admin from India  || Hacker's Unity Community Lead**
 
 Email Me 👉 ✉️ **jhas7317@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 ## 🔗 I am a Hackathon Organizer. 😊😊
 
-**👨‍💼 Data Analyst - RRT | Community Lead - Hacker's Unity | Hackathon Organizer | Community Leader | Data Engineer | Certified Hackathon Mentor.**
+**👨‍💼 Ex Data Analyst - RRT & Software Engineer - TCS | Community Lead - Hacker's Unity | Hackathon Organizer | Community Leader | Data Engineer | Certified Hackathon Mentor.**
 
 I am a passionate Data Analyst, project leader, and data-driven professional with diverse experience across technology, business, and community development.
 
